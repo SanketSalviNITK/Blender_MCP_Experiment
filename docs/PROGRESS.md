@@ -20,7 +20,7 @@
 | ✅ | 2.2 | Materials and colors |
 | ✅ | 2.3 | Lights and cameras |
 | ✅ | 2.4 | Organizing a scene (collections, naming) |
-| ⏳ | 2.5 | **PE:** Chain-of-thought prompts |
+| ✅ | 2.5 | **PE:** Chain-of-thought prompts |
 
 ## Module 3 — Agentic Workflows
 | Status | Lesson | Title |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 9 / 40 lessons completed
+**Total:** 10 / 40 lessons completed
