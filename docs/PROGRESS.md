@@ -11,7 +11,7 @@
 | ✅ | 1.2 | Tour of Claude Code — CLI, tools, agents |
 | ✅ | 1.3 | Your first prompt: "Add a cube to the scene" |
 | ✅ | 1.4 | Reading Blender's Python API docs via Claude |
-| ⏳ | 1.5 | **PE:** Specificity vs. vagueness |
+| ✅ | 1.5 | **PE:** Specificity vs. vagueness |
 
 ## Module 2 — Scene Basics
 | Status | Lesson | Title |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 4 / 40 lessons completed
+**Total:** 5 / 40 lessons completed
