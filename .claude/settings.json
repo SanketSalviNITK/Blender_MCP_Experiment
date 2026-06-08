@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "blender": {
+      "command": "C:\\Users\\ARVR\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\blender-mcp.exe",
+      "args": []
+    }
+  }
+}

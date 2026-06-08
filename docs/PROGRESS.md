@@ -7,7 +7,7 @@
 ## Module 1 — Foundations
 | Status | Lesson | Title |
 |--------|--------|-------|
-| ⏳ | 1.1 | What is MCP? How Claude talks to Blender |
+| ✅ | 1.1 | What is MCP? How Claude talks to Blender |
 | ⏳ | 1.2 | Tour of Claude Code — CLI, tools, agents |
 | ⏳ | 1.3 | Your first prompt: "Add a cube to the scene" |
 | ⏳ | 1.4 | Reading Blender's Python API docs via Claude |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 0 / 40 lessons completed
+**Total:** 1 / 40 lessons completed
