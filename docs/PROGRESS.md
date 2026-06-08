@@ -25,7 +25,7 @@
 ## Module 3 — Agentic Workflows
 | Status | Lesson | Title |
 |--------|--------|-------|
-| ⏳ | 3.1 | What is an agent? How Claude breaks down tasks |
+| ✅ | 3.1 | What is an agent? How Claude breaks down tasks |
 | ⏳ | 3.2 | Multi-step scene building (agent does it all) |
 | ⏳ | 3.3 | Using TaskCreate to track work inside sessions |
 | ⏳ | 3.4 | When to guide vs. when to let the agent run |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 10 / 40 lessons completed
+**Total:** 11 / 40 lessons completed
