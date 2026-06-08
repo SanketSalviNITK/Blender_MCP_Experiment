@@ -29,7 +29,7 @@
 | ✅ | 3.2 | Multi-step scene building (agent does it all) |
 | ✅ | 3.3 | Using TaskCreate to track work inside sessions |
 | ✅ | 3.4 | When to guide vs. when to let the agent run |
-| ⏳ | 3.5 | **PE:** Writing agentic briefs |
+| ✅ | 3.5 | **PE:** Writing agentic briefs |
 
 ## Module 4 — Connectors & Plugins
 | Status | Lesson | Title |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 14 / 40 lessons completed
+**Total:** 15 / 40 lessons completed
