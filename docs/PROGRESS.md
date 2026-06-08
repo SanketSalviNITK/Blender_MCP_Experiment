@@ -18,7 +18,7 @@
 |--------|--------|-------|
 | ✅ | 2.1 | Adding, moving, scaling, rotating objects |
 | ✅ | 2.2 | Materials and colors |
-| ⏳ | 2.3 | Lights and cameras |
+| ✅ | 2.3 | Lights and cameras |
 | ⏳ | 2.4 | Organizing a scene (collections, naming) |
 | ⏳ | 2.5 | **PE:** Chain-of-thought prompts |
 
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 7 / 40 lessons completed
+**Total:** 8 / 40 lessons completed
