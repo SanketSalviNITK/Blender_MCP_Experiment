@@ -16,7 +16,7 @@
 ## Module 2 — Scene Basics
 | Status | Lesson | Title |
 |--------|--------|-------|
-| ⏳ | 2.1 | Adding, moving, scaling, rotating objects |
+| ✅ | 2.1 | Adding, moving, scaling, rotating objects |
 | ⏳ | 2.2 | Materials and colors |
 | ⏳ | 2.3 | Lights and cameras |
 | ⏳ | 2.4 | Organizing a scene (collections, naming) |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 5 / 40 lessons completed
+**Total:** 6 / 40 lessons completed
