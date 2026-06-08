@@ -9,7 +9,7 @@
 |--------|--------|-------|
 | ✅ | 1.1 | What is MCP? How Claude talks to Blender |
 | ✅ | 1.2 | Tour of Claude Code — CLI, tools, agents |
-| ⏳ | 1.3 | Your first prompt: "Add a cube to the scene" |
+| ✅ | 1.3 | Your first prompt: "Add a cube to the scene" |
 | ⏳ | 1.4 | Reading Blender's Python API docs via Claude |
 | ⏳ | 1.5 | **PE:** Specificity vs. vagueness |
 
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 2 / 40 lessons completed
+**Total:** 3 / 40 lessons completed
