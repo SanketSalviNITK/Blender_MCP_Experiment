@@ -34,8 +34,8 @@
 ## Module 4 — Connectors & Plugins
 | Status | Lesson | Title |
 |--------|--------|-------|
-| ⏳ | 4.1 | What are MCP connectors? (filesystem, browser, computer-use) |
-| ⏳ | 4.2 | Using the filesystem connector — save/load .blend files |
+| ✅ | 4.1 | What are MCP connectors? (filesystem, browser, computer-use) |
+| ✅ | 4.2 | Using the filesystem connector — save/load .blend files |
 | ⏳ | 4.3 | Using computer-use — take screenshots, verify renders |
 | ⏳ | 4.4 | Chaining connectors: generate → render → save → preview |
 | ⏳ | 4.5 | **PE:** Tool-aware prompting |
@@ -78,4 +78,4 @@
 
 ---
 
-**Total:** 15 / 40 lessons completed
+**Total:** 17 / 40 lessons completed
